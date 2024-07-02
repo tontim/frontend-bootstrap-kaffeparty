@@ -1,6 +1,28 @@
+html, body {
+    height:100%;
+    padding-top:70px;
+}
 .custom-navbar {
     background-color: #973131;
-  }
+}
+
 nav p {
     color:#FFF;
-  }
+}
+
+.custom-btn-1 {
+    background-color: #E0A75E;
+}
+
+.custom-btn-outline-2 {
+    border-color: #E0A75E;
+    color:#E0A75E;
+}
+
+.custom-btn-2:hover {
+    background-color: #E0A75E;
+    color: black;
+}
+.blockquote {
+    background-color:#F5E7B2;
+}
